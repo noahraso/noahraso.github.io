@@ -162,6 +162,7 @@ figcaption {
 
 .leftwrap {
     float: left;
+    margin-left: 65px;
     margin-right: 10px;
     width:400px;
 }
@@ -174,6 +175,7 @@ figcaption {
 .rightwrap {
     float: right;
     margin-left: 10px;
+    margin-right: 65px;
     width:400px;
 }
 
