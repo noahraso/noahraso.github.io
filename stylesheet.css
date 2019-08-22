@@ -241,11 +241,11 @@ span.head {
 }
 
 .twitter-timeline {
-    margin: auto
+    margin: auto;
 }
 
 .alignheathen {
-    margin: auto
+    text-align: right;
 }
 
 .bigicon {
